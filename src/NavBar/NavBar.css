@@ -1,0 +1,24 @@
+*
+{
+    box-sizing: border-box;
+
+}
+
+img
+
+{
+    
+}
+.navbar 
+{
+    display: flex;
+    /* justify-content: right; */
+    margin: 24px 24px 24px 24px;
+    background-color: beige;
+    width: fit-content;
+    font-size: 28px;
+}
+
+.bar {
+    margin: 10px 10px 10px 10px
+}
